@@ -15,8 +15,7 @@
   - Predicted employee churn using **machine learning models**.
   - Performed **EDA, feature engineering, and model evaluation**.
   - Built using **Python, Scikit-Learn, XGBoost, Power BI**.
-
- 📌 [Recommendation System](your-github-repo-link)
+  📌 [Recommendation System](your-github-repo-link)
   - Developed a **personalized recommendation system**.
   - Implemented **Collaborative Filtering & Content-Based Filtering**.
   - Built using **Python, Pandas, Scikit-Learn, Surprise Library**.
